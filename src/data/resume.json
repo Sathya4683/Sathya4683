@@ -1,0 +1,91 @@
+{
+  "name": "Sathya Narayanan",
+  "email": "sathyanarayanan2548@gmail.com",
+  "portfolio": "sathya4683.vercel.app",
+  "linkedin": "linkedin.com/in/sathya-narayanan-8a18a02b2",
+  "github": "github.com/Sathya4683",
+  "mobile": "+91 9176611002",
+  "education": {
+    "institution": "Shiv Nadar University Chennai",
+    "location": "Chennai, India",
+    "degree": "B.Tech in Artificial Intelligence and Data Science",
+    "cgpa": "9.14",
+    "duration": "Aug 2023 – May 2027"
+  },
+  "experience": [
+    {
+      "company": "eklavya.me",
+      "role": "SDE Intern",
+      "location": "Chennai, India",
+      "duration": "April 2026 – Present",
+      "highlights": [
+        "Currently interning as SDE intern"
+      ]
+    },
+    {
+      "company": "Govt. of India (MeitY) Funded",
+      "role": "Software Development Engineer Intern",
+      "location": "Chennai, India",
+      "duration": "Dec 2025 – Apr 2026",
+      "highlights": [
+        "Full-Stack Delivery & Refactor: Sole developer for speech.snuchennai.edu.in; rewrote Flask backend using Blueprints, cutting codebase from ~14,000 → 4,500 lines (~68%); deployed on MeshCentral with unit tests",
+        "ML API Layer: Designed 10+ REST endpoints for biLSTM and prosody models; exposed one public key-authenticated API for external researchers"
+      ]
+    },
+    {
+      "company": "AtumX",
+      "role": "Software Development Engineer Intern",
+      "location": "Chennai, India",
+      "duration": "Mar 2025 – Jul 2025",
+      "highlights": [
+        "ESP32 Voice Chatbot: FastAPI + LangChain + Redis + ChromaDB + Docker server that receives ESP32 audio, queries an LLM, and streams synthesized speech back with short-term (Redis) and long-term (ChromaDB) memory",
+        "Multimodal Robot Control: Electron + WebSockets dashboard for real-time robot control via WASD keys, gesture recognition (Keras), and offline speech commands (TensorFlow.js)"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "Read2Speech",
+      "tech": "FastAPI, Redis Streams, Celery, LangChain, MongoDB, React",
+      "description": "LLM-Powered Article-to-Audiobook Platform",
+      "highlights": [
+        "Async Distributed Pipeline: Producer-consumer backend (FastAPI + Celery + Redis Streams + MongoDB) for scraping, LLM-based processing, and audiobook generation with real-time task tracking",
+        "Auth & Notifications: JWT authentication with automated email notifications on job completion; React frontend for audiobook library management"
+      ]
+    },
+    {
+      "name": "Eunoia",
+      "tech": "Python, FastAPI, React Native, BeautifulSoup4, Gemini, ChromaDB",
+      "description": "AI-Powered DIY Learning Platform",
+      "highlights": [
+        "RAG-Based Recommendations: Personalized DIY project recommender using Gemini + ChromaDB (RAG) for semantic retrieval, tailored to the user's environment and skill level",
+        "End-to-End Stack: FastAPI backend for scraping and search; gamified React Native app with achievements and progress tracking"
+      ]
+    },
+    {
+      "name": "haGIT",
+      "tech": "Next.js, TypeScript, Prisma, PostgreSQL, Commander.js",
+      "description": "Multi-platform Git-Inspired Habit Tracker",
+      "highlights": [
+        "Published npm Package: Shipped hagit-cli on npm - Git-like commands (hagit commit, push, branch) syncing habits to a Next.js + PostgreSQL backend with JWT auth and contribution heatmaps",
+        "Turborepo Monorepo: Shared packages across CLI, Next.js web dashboard, and Chrome Extension - all three clients hitting the same API routes"
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "Runner-Up, SNUC Hacks 2025",
+      "description": "Placed 2nd among 50+ teams"
+    },
+    {
+      "title": "LeetCode",
+      "description": "Solved 450+ problems across Data Structures, Algorithms, and SQL"
+    }
+  ],
+  "skills": {
+    "languages": ["Python", "SQL", "JavaScript", "TypeScript", "Java", "C/C++"],
+    "frameworks": ["FastAPI", "Flask", "Next.js", "React", "React Native", "Express.js", "LangChain"],
+    "databases": ["PostgreSQL", "Redis", "MongoDB", "ChromaDB"],
+    "tools": ["Git", "Docker", "AWS", "Postman", "Prisma", "Turborepo", "Vim", "Tmux", "Directus", "Meilisearch"]
+  }
+}
