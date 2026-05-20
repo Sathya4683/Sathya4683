@@ -18,6 +18,8 @@
   <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/excalidraw.png" height="36" alt="excalidraw logo" />
 </div>
 
+<br>
+
 ```bash
 email     -> mailto:sathyanarayanan2548@gmail.com
 portfolio -> https://sathya-narayanan.vercel.app
