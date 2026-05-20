@@ -20,6 +20,18 @@
 
 <br>
 
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="32" alt="python logo" />
+  <img width="12" />
+
+  <img src="https://cdn.simpleicons.org/gnubash" height="32" alt="bash logo" />
+  <img width="12" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="32" alt="typescript logo" />
+</div>
+
+<br>
+
 ```bash
 email     -> mailto:sathyanarayanan2548@gmail.com
 portfolio -> https://sathya-narayanan.vercel.app
