@@ -2,7 +2,7 @@
 ```bash
 email     -> mailto:sathyanarayanan2548@gmail.com
 portfolio -> https://sathya4683.vercel.app
-leetcode  -> https://leetcode.com/u/Sathya_kikki_123/
+leetcode  -> https://leetcode.com/u/Sathya_kikki_123
 ```
 
 ### Tech stack
