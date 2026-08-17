@@ -32,7 +32,7 @@ leetcode  -> https://leetcode.com/u/Sathya_kikki_123
   <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/excalidraw.png" height="36" alt="excalidraw" />
   <img width="14" />
 
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/monkeytype.svg" height="34" alt="monkeytype" />
+
 
   <br><br>
 
